@@ -1,0 +1,25 @@
+{
+  "name": "40knn",
+  "version": "1.0.0",
+  "description": "neural network for 40k analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "synaptic": "1.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sneezembop/40kNN.git"
+  },
+  "keywords": [
+    "40k"
+  ],
+  "author": "miles benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sneezembop/40kNN/issues"
+  },
+  "homepage": "https://github.com/Sneezembop/40kNN#readme"
+}
